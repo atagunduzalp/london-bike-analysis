@@ -33,7 +33,7 @@ As you can see, RandomForestRegressor has the best r2 score and the least RMSLE 
 Finally, as a result RandomizedSearchCV, best parameters selected with these parameters and values:
 
 
-| Hyperparameter | #n_estimators | #max_features | #max_depth | #min_samples_leaf | #min_samples_split | #bootstrap |
+| Hyperparameter | n_estimators | max_features | max_depth | min_samples_leaf | min_samples_split | bootstrap |
 | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
 | Value | 1800 | ‘auto’ | None | 2 |  2 |  True |  
 
