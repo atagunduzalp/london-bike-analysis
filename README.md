@@ -9,7 +9,7 @@ My dataset includes 17415 rows. I split it %20 for test and %80 for train. I lis
 Beyond that, you can find some sample charts to recognize and analyze data.
 
 ![test]
- (london-bike-analysis/hourly-rental.png)
+ (https://github.com/atagunduzalp/london-bike-analysis/blob/master/hourly-rental.png)
  
  
 
